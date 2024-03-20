@@ -13,6 +13,8 @@ The Diffie-Hellman algorithm is being used to establish a shared secret that can
 - Symmetric keys are calculated by each of the parties
 - If the two keys are same (which is the objective of the algorithm) - it is known as the shared secret key
 
+![image](https://github.com/tejucodes10/Crypto-Concepts-CIA2/assets/119094222/0a444684-2d14-4a72-9dd3-bcff125dd4e5)
+
 ### Running the file : 
 - javac dh.java
 - java dh
